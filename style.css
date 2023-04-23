@@ -114,6 +114,7 @@ input#new-task {
 }
 
 /* Task list */
+
 li {
   overflow: hidden;
   padding: 20px 0;
